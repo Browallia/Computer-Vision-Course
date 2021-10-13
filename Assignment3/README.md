@@ -1,0 +1,1 @@
+![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment3/face.gif)
