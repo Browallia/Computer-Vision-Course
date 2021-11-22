@@ -4,7 +4,7 @@
 ## Result
 
 |C | CS | S |
-| ---------| ---------------------------------------------------------------------------------------|
+| ---------| ---------------------------------------------------------------------------------------|--------------|
 |![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment9/a1.png)  |![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment9/a2.png) |![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment9/a3.png)|
 |![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment9/b1.png)  |![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment9/b2.png) |![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment9/b3.png)|
 |![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment9/c1.png)  |![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment9/c2.png) |![](https://github.com/Browallia/Computer-Vision-Course/blob/main/Assignment9/c3.png)|
